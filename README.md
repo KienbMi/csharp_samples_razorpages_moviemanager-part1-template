@@ -1,5 +1,7 @@
 # Movie Manager Razor Pages (Teil 1)
 
+![.NET Core](https://github.com/jfuerlinger/csharp_samples_razorpages_moviemanager-part1-template/workflows/.NET%20Core/badge.svg)
+
 ## Lernziele
 
 * ASP.NET Core Razor Pages
