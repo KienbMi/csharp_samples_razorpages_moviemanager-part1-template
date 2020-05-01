@@ -73,4 +73,3 @@ Implementieren Sie zumindest folgende zwei Razor Pages:
 - Verwenden Sie das UnitOfWork-Muster
 - Dependency Injection (IoC) verwenden
 - Erweitern Sie wo notwendig die Repositories
-
