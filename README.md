@@ -31,7 +31,7 @@ Die Logik zum Einlesen der Movies (inkl. Categories) ist bereits im Projekt `Mov
 
 ## ASP.NET Core Razor Pages
 
-Implementieren Sie zur bestehenden Persistenzschicht eine WebApi analog zum [Live-Coding](https://github.com/jfuerlinger/csharp_livecoding_ef_uow_razorpages-part1).
+Implementieren Sie zur bestehenden Persistenzschicht ein Razor Page Projekt analog zum [Live-Coding](https://github.com/jfuerlinger/csharp_livecoding_ef_uow_razorpages-part1).
 
 Erstellen Sie ein geeignetes ASP.NET Core Projekt (inkl. Abhängigkeiten) mit der Bezeichnung `MovieManager.Web`.
 
