@@ -38,7 +38,7 @@ namespace MovieManager.Tests
             await unitOfWork.Movies.AddAsync(movieA);
             await unitOfWork.Movies.AddAsync(movieB);
             int count = await unitOfWork.SaveChangesAsync();
-            Assert.AreEqual(3, count);  // 2 movies 1 category
+            Assert.AreEqual(-1, count);  // 2 movies 1 category
         }
 
         [TestMethod]
